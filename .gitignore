@@ -1,0 +1,13 @@
+.env
+env
+node_modules
+build
+pycache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
